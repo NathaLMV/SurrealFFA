@@ -5,6 +5,5 @@ branches:
 projects:
   SurrealFFA:
     path: ""
-    entry: src
-    icon: icon.png
+    icon: "icon.png"
 ...
