@@ -34,7 +34,7 @@ class GameEvent implements Listener {
     if ($finalDamage >= $currentHealth) {
       $event->cancel();
       $victim->teleport($victim->getWorld()->getSafeSpawn());
-      $victim->setHealth(20);
+      $victim->setHealth(20.0);
       if ($event instanceof EntityDamageByEntityEvent) {
         $damager = $event->getDamager();
         if ($damager instanceof PMMPPlayer && $damager->isOnline()) {
