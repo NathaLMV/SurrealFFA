@@ -1,0 +1,12 @@
+name: SurrealFFA
+version: 1.0.0
+api: 5.0.0
+main: natha\ffa\FFA
+author: natha
+permissions:
+  ffa.command.use:
+    description: Permission to use the FFA command
+    default: true
+  ffa.dev.use:
+    description: This permit only for the dev
+    default: op
