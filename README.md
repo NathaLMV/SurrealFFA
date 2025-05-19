@@ -4,7 +4,7 @@ SurrealFFA is a professional plugin for PocketMine-MP that offers a competitive 
 
 ---
 
-## Características
+## Characteristics
 - Fast and fluid FFA system.
 - Statistics registration in SurrealDB (kills, deaths).
 - Full integration with the LibSurrealDB API for asynchronous queries.
@@ -13,7 +13,7 @@ SurrealFFA is a professional plugin for PocketMine-MP that offers a competitive 
 
 ---
 
-## Requisitos
+## Requirements
 
 - PocketMine-MP version 5.0 or higher.
 - [LibSurrealDB](https://github.com/NathaLMV/LibSurrealDB) installed and working properly.
@@ -21,7 +21,7 @@ SurrealFFA is a professional plugin for PocketMine-MP that offers a competitive 
 
 ---
 
-## Instalación
+## Installation
 
 1. Download the SurrealFFA plugin and the LibSurrealDB api.
 2. Place both `.phar` files in the `plugins` folder on your PocketMine-MP server.
