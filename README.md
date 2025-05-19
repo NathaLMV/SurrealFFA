@@ -31,7 +31,7 @@ SurrealFFA is a professional plugin for PocketMine-MP that offers a competitive 
 
 ---
 
-## Configuración
+## Configuration
 
 Example `config.yml`:
 
